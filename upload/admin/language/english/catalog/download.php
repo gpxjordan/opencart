@@ -14,7 +14,7 @@ $_['column_action']    = 'Action';
 // Entry
 $_['entry_name']       = 'Download Name';
 $_['entry_filename']   = 'Filename';
-$_['entry_mask']       = 'Mask';
+$_['entry_mask']       = 'File mask';
 $_['entry_remaining']  = 'Total Downloads Allowed';
 $_['entry_update']     = 'Push to Previous Customers';
 
